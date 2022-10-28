@@ -513,7 +513,11 @@ section {
 
 .navbar-dark .navbar-brand img {
     max-width: none;
-    max-width: 100px;
+    max-width: 50px;
+}
+
+.navbar-sticky-on .navbar-brand img {
+    max-width: 50px !important;
 }
 
 .adobe-crative-logo {
@@ -543,6 +547,10 @@ section {
     padding-top: 10px;
 }
 
+.navbar-brand img {
+    width: 100px;
+}
+
 
 /* ******************************
 :: 8.0 WELCOME AREA CSS
@@ -556,7 +564,7 @@ section {
     background-size: cover;
     background-position: center;
     margin-top: 104px;
-    margin-top: 85px;
+    margin-top: 55px;
     height: 550px;
 }
 
@@ -1541,6 +1549,10 @@ section {
 .copy-right {
     padding: 50px 0;
     border-top: 1px solid #ddd;
+}
+
+.copy-right .logo img {
+    width: 150px;
 }
 
 .copy-right p,

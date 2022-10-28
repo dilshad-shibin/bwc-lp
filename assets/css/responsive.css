@@ -774,7 +774,7 @@
 
 @media(max-width:575px) {
     .navbar-brand img {
-        width: 90px;
+        width: 50px;
     }
     .d-none-575 {
         display: none;
@@ -981,5 +981,8 @@
     }
     .faq-accrodion .accrodion .accrodion-title h4 {
         max-width: 230px;
+    }
+    .navbar-inner {
+        padding-top: 0 !important;
     }
 }

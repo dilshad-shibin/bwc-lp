@@ -72,8 +72,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="row">
                     <div class="col-12">
                         <a class="navbar-brand" href="#">
-                            <img class="navbar-brand-regular" src="assets/img/logo/bwc-logo.png" alt="brand-logo">
-                            <img class="navbar-brand-sticky" src="assets/img/logo/bwc-logo.png" alt="sticky brand-logo">
+                            <img class="navbar-brand-regular" src="assets/img/logo/bwc-logo.svg" alt="brand-logo">
+                            <img class="navbar-brand-sticky" src="assets/img/logo/bwc-logo.svg" alt="sticky brand-logo">
                         </a>
                     </div>
                 </div>
@@ -766,7 +766,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="row align-items-center">
                     <div class="col-12">
                         <div class="copy-right d-flex justify-content-between">
-                            <div class="logo"><img src="assets/img/logo/bwc-logo.png" alt=""></div>
+                            <div class="logo"><img src="assets/img/logo/bwc-logo.svg" alt=""></div>
                             <div class="text">
                                 <p>Copyright © 2022 BWC. All Rights Reserved. Designed by
                                     <a href="https://www.theaptdigital.com/?utm_source=bwc" target="_blank">
