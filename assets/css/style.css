@@ -614,7 +614,7 @@ section {
     -webkit-transition: all 0.5s ease-out 0s;
     transition: all 0.5s ease-out 0s;
     font-size: 18px;
-    font-family: 'Karla', sans-serif;
+    /* font-family: 'Karla', sans-serif; */
     border: 1px solid #000;
     border-radius: 6px;
     height: 44px;
@@ -716,12 +716,18 @@ section {
     font-size: 38px;
     font-weight: 500;
     position: absolute;
-    bottom: 30px;
     max-width: 770px;
     text-align: center;
     line-height: 60px;
-    font-size: 30px;
-    line-height: 50px;
+    font-size: 26px;
+    line-height: 42px;
+    background: #343a40c9;
+    padding: 5px 15px;
+    top: 40%;
+    box-shadow: rgb(149 157 165 / 20%) 0px 8px 24px;
+    margin: 0 20px;
+    left: -8px;
+    text-align: left;
 }
 
 
@@ -1042,7 +1048,7 @@ section {
 ****************************** */
 
 .branding-area {
-    padding: 80px 0;
+    padding: 80px 0 10px;
 }
 
 .brand-head h1 {

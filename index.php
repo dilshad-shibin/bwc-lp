@@ -113,7 +113,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                 <div class="form-group mx-5">
                                     <select name="enquiry" id="" class="form-control" required>
-                                        <option value="" default>Enquiry</option>
+                                        <option value="" default>Select Product/Service</option>
                                         <option value="branding">Branding</option>
                                         <option value="website">Website</option>
                                         <option value="ecommerce">E-commerce</option>
@@ -123,6 +123,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <option value="smart-health">BWC Smart Health</option>
                                         <option value="singu-guest-book">Singu Guest Book</option>
                                         <option value="hr-solution">Office Kit HR Solution</option>
+                                        <option value="other">Other</option>
                                     </select>
                                 </div>
 
@@ -247,7 +248,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 <div class="name">
                                     <h3>Aniah Gallery</h3>
-                                    <p>Dubai</p>
+                                    <!-- <p>Dubai</p> -->
                                 </div>
                             </div>
                             <div class="work-box mb-3">
@@ -256,7 +257,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 <div class="name">
                                     <h3>Spentera</h3>
-                                    <p>Jakarta</p>
+                                    <!-- <p>Jakarta</p> -->
                                 </div>
                             </div>
                         </div>
@@ -268,7 +269,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 <div class="name">
                                     <h3>Quazar Investment</h3>
-                                    <p>Dubai</p>
+                                    <!-- <p>Dubai</p> -->
                                 </div>
                             </div>
                             <div class="work-box mb-3">
@@ -276,8 +277,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <img src="assets/img/works/4.jpg" alt="">
                                 </div>
                                 <div class="name">
-                                    <h3>Quazar Investment</h3>
-                                    <p>Dubai</p>
+                                    <h3>Dubai Stars</h3>
+                                    <!-- <p>Dubai</p> -->
                                 </div>
                             </div>
                         </div>
@@ -289,7 +290,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 <div class="name">
                                     <h3>Aniah Gallery</h3>
-                                    <p>Dubai</p>
+                                    <!-- <p>Dubai</p> -->
                                 </div>
                             </div>
                             <div class="work-box mb-3">
@@ -298,7 +299,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 <div class="name">
                                     <h3>Spentera</h3>
-                                    <p>Jakarta</p>
+                                    <!-- <p>Jakarta</p> -->
                                 </div>
                             </div>
                         </div>
@@ -310,7 +311,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 <div class="name">
                                     <h3>Quazar Investment</h3>
-                                    <p>Dubai</p>
+                                    <!-- <p>Dubai</p> -->
                                 </div>
                             </div>
                             <div class="work-box mb-3">
@@ -318,8 +319,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <img src="assets/img/works/4.jpg" alt="">
                                 </div>
                                 <div class="name">
-                                    <h3>Quazar Investment</h3>
-                                    <p>Dubai</p>
+                                    <h3>Dubai Stars</h3>
+                                    <!-- <p>Dubai</p> -->
                                 </div>
                             </div>
                         </div>
@@ -724,7 +725,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                 <div class="form-group mx-5">
                                     <select name="enquiry" id="" class="form-control" required>
-                                        <option value="" default>Enquiry</option>
+                                        <option value="" default>Select Product/Service</option>
                                         <option value="branding">Branding</option>
                                         <option value="website">Website</option>
                                         <option value="ecommerce">E-commerce</option>
@@ -734,6 +735,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <option value="smart-health">BWC Smart Health</option>
                                         <option value="singu-guest-book">Singu Guest Book</option>
                                         <option value="hr-solution">Office Kit HR Solution</option>
+                                        <option value="other">Other</option>
                                     </select>
                                 </div>
 
@@ -791,7 +793,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="col-sm-6 p-0 text-center pp-left">
                                     <div class="popupleft-content">
                                         <!-- <h3>Get Our<br><span>PRODUCTS</span></h3> -->
-                                        <p>Wish to enliven your unique ideas and vision? And stay in your customers' hearts forever?</p>
+                                        <p>Wish to enliven your unique ideas and vision? And stay in your customers' hearts forever.</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-6 p-0">
@@ -823,7 +825,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                         <div class="col-12 col-md-12">
                                                                             <div class="form-group">
                                                                                 <select name="enquiry" id="" class="form-control" required>
-                                                                                    <option value="" default>Enquiry</option>
+                                                                                    <option value="" default>Select Product/Service</option>
                                                                                     <option value="branding">Branding</option>
                                                                                     <option value="website">Website</option>
                                                                                     <option value="ecommerce">E-commerce</option>
@@ -833,6 +835,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                                     <option value="smart-health">BWC Smart Health</option>
                                                                                     <option value="singu-guest-book">Singu Guest Book</option>
                                                                                     <option value="hr-solution">Office Kit HR Solution</option>
+                                                                                    <option value="other">Other</option>
                                                                                 </select>
                                                                             </div>
                                                                         </div>
